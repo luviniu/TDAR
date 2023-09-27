@@ -9,6 +9,13 @@ body{
   font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
+.subtitulo{
+
+size: 60px;
+margin-bottom: 10px;
+
+}
+
 .conceito{
 
   width: 200px ;
