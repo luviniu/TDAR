@@ -6,20 +6,22 @@
 }
 
 body{
-  font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  margin-top: 40px;
-  margin-left: 45px;	
+  font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;	
 }
 
 .subtitulo{
 
 font-size: 40px;
 padding-bottom: 15px;
-
+margin-top: 40px;
+margin-left: 45px;
+	
 }
 
 .conceito{
 
   width: 500px ;
+  margin-top: 40px;
+  margin-left: 45px;
 	
 }
