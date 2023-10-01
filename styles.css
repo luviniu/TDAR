@@ -24,5 +24,10 @@ color: rgb( 8, 18, 30);
 
   width: 500px ;
   margin-left: 45px;
+  float: left;
 	
+}
+
+img{
+float: right;
 }
