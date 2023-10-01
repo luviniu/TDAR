@@ -5,7 +5,40 @@
 
 }
 
+body{
+  font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  text-align: justify;
+}
 
+.subtitulo{
+
+font-size: 40px;
+padding-bottom: 15px;
+margin-top: 40px;
+margin-left: 45px;
+color: rgb( 8, 18, 30);
+display:flex;
+	
+}
+
+.conceito{
+  margin: 20px;
+  padding: 25px;
+  display: flex;
+  justify-content: left;
+
+	
+}
+.conceito img{
+  border-radius: 15px;
+
+  
+}
+
+.text-conceito{
+  width: 500px;
+  padding-right: 25px;
+}
 
 
 .Claro-Escuro{
