@@ -35,3 +35,61 @@ border-radius: 16px;
 margin-right: 400px;
 
 }
+
+
+
+.Claro-Escuro{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 70px;
+}
+
+a{
+   color: lavender;
+   text-decoration: none;
+   transition: color 0.3s ease;
+
+}
+header{
+   text-align: center;
+   background: rgb(240, 237, 216);
+
+}
+nav {
+  display: inline-flex;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+  font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  height: 10vh;
+  padding-right: 5%;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+}
+
+.flex-container .lampada-img {
+  display: flex;
+  align-items: center;
+
+}
+
+.Claro-Escuro {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+
+a:hover {
+  color: #c49ca4;
+
+}
+
+.nav-list li {
+   margin-left: 32px;
+
+}
