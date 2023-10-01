@@ -9,7 +9,7 @@ if (prefersDarkMode) {
   header.classList.add('dark-theme');
   body.classList.add('dark-theme');
   checkbox.checked = true;
-  lampadaImg.src = 'moon.png';
+  lampadaImg.src = 'lua.png';
 }
 
 checkbox.addEventListener('change', function () {
