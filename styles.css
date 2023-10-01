@@ -5,35 +5,7 @@
 
 }
 
-body{
-  font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  text-align: justify;
-}
 
-.subtitulo{
-
-font-size: 40px;
-padding-bottom: 15px;
-margin-top: 40px;
-margin-left: 45px;
-color: rgb( 8, 18, 30);
-display:flex;
-	
-}
-
-.conceito{
-
-  width: 500px ;
-  margin-left: 45px;
-  float: left;
-	
-}
-
-.imgresiduo{
-float: right;
-border-radius: 16px;
-margin-right: 600px;
-}
 
 
 .Claro-Escuro{
