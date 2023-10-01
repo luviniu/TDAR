@@ -29,5 +29,9 @@ color: rgb( 8, 18, 30);
 }
 
 img{
+
 float: right;
+border-radius: 16px;
+margin-right: 100px;
+
 }
