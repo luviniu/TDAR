@@ -38,6 +38,15 @@ display:flex;
 
 	
 }
+.conceito2{
+  padding-botton: 25px;
+  padding-left: 25px;
+  display: flex;
+  justify-content: right;
+
+	
+}
+
 .conceito img{
   border-radius: 15px;
   padding-bottom: 15px
