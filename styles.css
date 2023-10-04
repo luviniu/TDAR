@@ -8,9 +8,12 @@ li{
  	width: 100px
 	
 }
-.colum1 {
+.colum {
 	padding-bottom:15px;
 	padding-top:25px;
+}
+.colum2 {
+	padding-top:10px;
 	background-color: red;
 }
 body{
