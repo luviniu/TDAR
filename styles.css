@@ -80,7 +80,7 @@ nav {
 
 }
 
-.Claro-Escuro {
+.dia-noite-img {
   position: absolute;
   opacity: 0;
   width: 0;
@@ -101,7 +101,7 @@ a:hover {
 /*TEMA ESCURO*/
 
 body.dark-theme {
-  background: #0c241e;
+  background: #142130;
   color: lavenderblush;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
