@@ -68,14 +68,9 @@ justify-content: right;
 .text-conceito{
   width: 500px;
   padding-right: 25px;
+  padding-left: 25px;
 }
 
-
-.Claro-Escuro{
-    display: flex;
-    justify-content: flex-end;
-    margin-right: 70px;
-}
 
 a{
    color: lavender;
