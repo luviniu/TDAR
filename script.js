@@ -1,7 +1,7 @@
 const checkbox = document.getElementById('cee');
 const header = document.querySelector('header');
 const body = document.body;
-const lampadaImg = document.querySelector('.dia-noite-img');
+const lampadaImg = document.querySelector('.lampada-img');
 
 const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
 
