@@ -9,6 +9,8 @@ body{
   font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   text-align: justify;
   background: #f0edd8;
+  color: #08121e;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .subtitulo{
@@ -17,7 +19,6 @@ font-size: 40px;
 padding-bottom: 15px;
 margin-top: 40px;
 margin-left: 45px;
-color: #08121e;
 display:flex;
 	
 }
@@ -57,6 +58,7 @@ a{
 header{
    text-align: center;
    background: #f0e1d8;
+   transition: background-color 0.3s ease, color 0.3s ease;
 
 }
 nav {
@@ -105,7 +107,8 @@ body.dark-theme {
   color: lavenderblush;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
+
 header.dark-theme {
 background: #08121e;
-	
+transition: background-color 0.3s ease, color 0.3s ease;
 }
