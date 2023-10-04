@@ -17,7 +17,7 @@ font-size: 40px;
 padding-bottom: 15px;
 margin-top: 40px;
 margin-left: 45px;
-color: rgb( 8, 18, 30);
+color: #08121e;
 display:flex;
 	
 }
@@ -96,4 +96,16 @@ a:hover {
 .nav-list li {
    margin-left: 32px;
 
+}
+
+/*TEMA ESCURO*/
+
+body.dark-theme {
+  background: #0c241e;
+  color: lavenderblush;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+header.dark-theme {
+background: #f0edd8;
+	
 }
