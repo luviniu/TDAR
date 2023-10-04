@@ -14,7 +14,7 @@ li{
 }
 .colum2 {
 	padding-top:10px;
-	background-color: red;
+	background: #f0e1d8;
 }
 body{
   font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
@@ -35,7 +35,7 @@ display:flex;
 
 font-size: 40px;
 margin-top: 40px;
-margin-left: 45px;
+margin-right: 45px;
 display:flex;
 justify-content: right;
 	
@@ -134,6 +134,11 @@ body.dark-theme {
   background: #142130;
   color: lavenderblush;
   transition: background-color 0.3s ease, color 0.3s ease;
+}
+body.dark-theme .colum2{
+	background: #08121e;
+	transition: background-color 0.3s ease, color 0.3s ease;
+	
 }
 
 header.dark-theme {
