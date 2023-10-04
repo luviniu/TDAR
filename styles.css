@@ -9,6 +9,7 @@ li{
 	
 }
 .colum1 {
+	padding-top:25px;
 	background-color: red;
 }
 body{
@@ -30,8 +31,8 @@ display:flex;
 }
 
 .conceito{
-  margin: 20px;
-  padding: 25px;
+  padding-botton: 25px;
+  padding-left: 25px;
   display: flex;
   justify-content: left;
 
