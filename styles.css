@@ -31,6 +31,14 @@ margin-top: 40px;
 margin-left: 45px;
 display:flex;
 	
+}.subtitulo2{
+
+font-size: 40px;
+margin-top: 40px;
+margin-left: 45px;
+display:flex;
+justify-content: right;
+	
 }
 
 .conceito{
