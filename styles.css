@@ -9,6 +9,7 @@ li{
 	
 }
 .colum1 {
+	padding-bottom:15px;
 	padding-top:25px;
 	background-color: red;
 }
@@ -23,7 +24,6 @@ body{
 .subtitulo{
 
 font-size: 40px;
-padding-bottom: 25px;
 margin-top: 40px;
 margin-left: 45px;
 display:flex;
