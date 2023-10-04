@@ -16,10 +16,10 @@ checkbox.addEventListener('change', function () {
   if (this.checked) {
     header.classList.add('dark-theme');
     body.classList.add('dark-theme');
-    lampadaImg.src = 'moon.png';
+    lampadaImg.src = 'lua.png';
   } else {
     header.classList.remove('dark-theme');
     body.classList.remove('dark-theme');
-    lampadaImg.src = 'sun.png';
+    lampadaImg.src = 'sol.png';
   }
 });
