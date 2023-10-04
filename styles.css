@@ -8,7 +8,9 @@ li{
  	width: 100px
 	
 }
-
+.colum1 {
+	background-color: red;
+}
 body{
   font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   text-align: justify;
