@@ -2,7 +2,6 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-
 }
 li{
  	width: 100px
@@ -17,25 +16,24 @@ li{
 	background: #f0e1d8;
 	padding-bottom:25px;
 }
-
+.colum3 {
+	padding-top:10px;
+	padding-bottom:25px;
 }
 body{
   font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   text-align: justify;
-  background-color: #f0edd8;
+  background: #f0edd8;
   color: #08121e;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
-
 .subtitulo{
-
 font-size: 40px;
 margin-top: 40px;
 margin-left: 45px;
 display:flex;
 	
 }.subtitulo2{
-
 font-size: 40px;
 margin-top: 40px;
 margin-right: 45px;
@@ -43,13 +41,11 @@ display:flex;
 justify-content: right;
 	
 }
-
 .conceito{
   padding-botton: 25px;
   padding-left: 25px;
   display: flex;
   justify-content: left;
-
 	
 }
 .conceito2{
@@ -57,12 +53,12 @@ justify-content: right;
   padding-left: 25px;
   display: flex;
   justify-content: right;
-
 	
 }
 
-.conceito-imgs{
+.conceito img{
   border-radius: 15px;
+  padding-botton: 15px;
 
   
 }
