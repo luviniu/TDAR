@@ -33,7 +33,7 @@ display:flex;
 }.subtitulo2{
 font-size: 40px;
 margin-top: 40px;
-margin-right: 45px;
+margin-right: 25px;
 display:flex;
 justify-content: right;
 	
@@ -58,6 +58,11 @@ justify-content: right;
 
   
 }
+.conceito2 img{
+  border-radius: 15px;
+	
+}
+
 
 .text-conceito{
   width: 500px;
