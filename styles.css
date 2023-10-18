@@ -18,9 +18,6 @@ li{
 	padding-bottom:25px;
 }
 
-.colum3 {
-	padding-top:10px;
-	padding-bottom:25px;
 }
 body{
   font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
@@ -64,9 +61,8 @@ justify-content: right;
 	
 }
 
-.conceito-imgs{
+.conceito-imgs .conceito-imgs2{
   border-radius: 15px;
-  padding-bottom: 15px;
 
   
 }
