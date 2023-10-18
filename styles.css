@@ -22,7 +22,7 @@ li{
 body{
   font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   text-align: justify;
-  background: #f0edd8;
+  background-color: #f0edd8;
   color: #08121e;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -128,7 +128,7 @@ a:hover {
 /*TEMA ESCURO*/
 
 body.dark-theme {
-  background: #142130;
+  background-color: #142130;
   color: lavenderblush;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
