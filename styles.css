@@ -18,7 +18,10 @@ li{
 }
 
 .rodape{
-	padding:25px;
+	padding:30px;
+	background: #f0e1d8;
+	font-weight: bold;
+	
 }
 .nome{
 	justify-content: right;
@@ -138,12 +141,17 @@ body.dark-theme {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 body.dark-theme .colum2{
-	background: #08121e;
-	transition: background-color 0.3s ease, color 0.3s ease;
+background: #08121e;
+transition: background-color 0.3s ease, color 0.3s ease;
 	
 }
 
 header.dark-theme {
 background: #08121e;
 transition: background-color 0.3s ease, color 0.3s ease;
+}
+.rodape.dark-theme{
+background: #08121e;
+transition: background-color 0.3s ease, color 0.3s ease;
+	
 }
