@@ -17,6 +17,14 @@ li{
 	padding-bottom:25px;
 }
 
+.rodape{
+	padding:25px;
+}
+.nome{
+	justify-content: right;
+	
+}
+
 body{
   font-family: "Ginto Nord", "Whitney", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   text-align: justify;
