@@ -85,13 +85,13 @@ justify-content: right;
 a{
    text-decoration: none;
    transition: color 0.3s ease;
+   color: #08121e;
 
 }
 header{
    text-align: center;
    background: #f0e1d8;
    transition: background-color 0.3s ease, color 0.3s ease;
-   color: #08121e;
 
 }
 nav {
@@ -150,6 +150,10 @@ header.dark-theme {
 background: #08121e;
 color: #f0e1d8;
 transition: background-color 0.3s ease, color 0.3s ease;
+}
+header.dark-theme a{
+color: #f0e1d8;
+
 }
 body.dark-theme .rodape{
 background: #08121e;
