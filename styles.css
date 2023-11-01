@@ -91,6 +91,7 @@ header{
    text-align: center;
    background: #f0e1d8;
    transition: background-color 0.3s ease, color 0.3s ease;
+   color: #08121e;
 
 }
 nav {
@@ -147,6 +148,7 @@ transition: background-color 0.3s ease, color 0.3s ease;
 
 header.dark-theme {
 background: #08121e;
+color: #f0e1d8;
 transition: background-color 0.3s ease, color 0.3s ease;
 }
 body.dark-theme .rodape{
